@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #ADD8FF;
+}
+
+input{
+  background-color: beige;
+}
+
+h1, h3, div, p{
+  color:#701E00;
+}
+div{
+  border: 2px solid black;
+  text-align: center;
+  padding: 1px 1px;
+}
